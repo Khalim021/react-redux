@@ -3,10 +3,10 @@ import React from 'react';
 function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-light bg-secondary">
+      <nav className="navbar navbar-light bg-grey">
         <div className="container-fluid">
           <a className="navbar-brand" href="sff">
-            Bootstrap
+            The New York Times
           </a>
         </div>
       </nav>
