@@ -1,0 +1,35 @@
+{
+    "newspaper": [
+        {
+            "id": 1,
+            "title": "Lorem ipsum dollar",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere pariatur unde amet esse iste voluptatem corrupti! Repudiandae nostrum officiis consequatur!",
+            "category": "Euronews"
+        },
+        {
+            "id": 2,
+            "title": "Lorem ipsum dollar",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere pariatur unde amet esse iste voluptatem corrupti! Repudiandae nostrum officiis consequatur!",
+            "category": "Washington Post"
+        },
+        {
+            "id": 3,
+            "title": "Lorem ipsum dollar",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere pariatur unde amet esse iste voluptatem corrupti! Repudiandae nostrum officiis consequatur!",
+            "category": "Hot news"
+        },
+        {
+            "id": 4,
+            "title": "Lorem ipsum dollar",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere pariatur unde amet esse iste voluptatem corrupti! Repudiandae nostrum officiis consequatur!",
+            "category": "BCC news"
+        }, 
+        {
+            "id": 5,
+            "title": "Lorem ipsum dollar",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere pariatur unde amet esse iste voluptatem corrupti! Repudiandae nostrum officiis consequatur!",
+            "category": "Takoy news"
+        }
+    ],
+    "filters": ["all", "hot", "world", "sport"]
+}
